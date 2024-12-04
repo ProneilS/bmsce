@@ -1,0 +1,34 @@
+{
+  "eduAI": "EduAI",
+  "about": "About",
+  "features": "Features",
+  "contact": "Contact",
+  "language": "Language",
+  "hero": {
+    "title1": "AI-Powered Education",
+    "title2": "for Everyone",
+    "description": "Breaking barriers in education through inclusive, AI-driven learning experiences that adapt to every student's needs.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "heading": "Features",
+    "subheading": "Empowering Education Through Technology",
+    "accessibility": {
+      "title": "Accessible Learning",
+      "description": "Education available anytime, anywhere, on any device."
+    },
+    "multilingual": {
+      "title": "Multiple Languages",
+      "description": "Content available in various languages to reach diverse communities."
+    },
+    "inclusive": {
+      "title": "Inclusive Design",
+      "description": "Built with accessibility in mind to accommodate all learners."
+    },
+    "adaptive": {
+      "title": "Adaptive Learning",
+      "description": "AI-powered system that adapts to individual learning styles and pace."
+    }
+  }
+}

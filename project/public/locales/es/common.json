@@ -1,0 +1,34 @@
+{
+  "eduAI": "EduAI",
+  "about": "Acerca de",
+  "features": "Características",
+  "contact": "Contacto",
+  "language": "Idioma",
+  "hero": {
+    "title1": "Educación Impulsada por IA",
+    "title2": "para Todos",
+    "description": "Rompiendo barreras en la educación a través de experiencias de aprendizaje inclusivas impulsadas por IA que se adaptan a las necesidades de cada estudiante.",
+    "getStarted": "Comenzar",
+    "learnMore": "Más Información"
+  },
+  "features": {
+    "heading": "Características",
+    "subheading": "Potenciando la Educación a Través de la Tecnología",
+    "accessibility": {
+      "title": "Aprendizaje Accesible",
+      "description": "Educación disponible en cualquier momento, en cualquier lugar, en cualquier dispositivo."
+    },
+    "multilingual": {
+      "title": "Múltiples Idiomas",
+      "description": "Contenido disponible en varios idiomas para llegar a comunidades diversas."
+    },
+    "inclusive": {
+      "title": "Diseño Inclusivo",
+      "description": "Construido pensando en la accesibilidad para acomodar a todos los estudiantes."
+    },
+    "adaptive": {
+      "title": "Aprendizaje Adaptativo",
+      "description": "Sistema impulsado por IA que se adapta a los estilos y ritmo de aprendizaje individuales."
+    }
+  }
+}

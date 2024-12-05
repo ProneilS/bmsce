@@ -1,2 +1,3 @@
-# bmsce
+# bmsce - team Data Miners
 hackathon
+
